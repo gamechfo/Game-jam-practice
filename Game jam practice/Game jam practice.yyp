@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Game jam practice",
   "resources": [
+    {"id":{"name":"obj_test_2","path":"objects/obj_test_2/obj_test_2.yy",},"order":1,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
